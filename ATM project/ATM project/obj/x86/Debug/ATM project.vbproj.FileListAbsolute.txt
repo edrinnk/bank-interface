@@ -1,0 +1,20 @@
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\bin\Debug\ATM project.exe
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\bin\Debug\ATM project.pdb
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\bin\Debug\ATM project.xml
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\obj\x86\Debug\ATM_project.Form1.resources
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\obj\x86\Debug\ATM_project.Resources.resources
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\obj\x86\Debug\ATM project.exe
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\obj\x86\Debug\ATM project.xml
+C:\Users\NkaluboA08834\AppData\Local\Temporary Projects\ATM project\obj\x86\Debug\ATM project.pdb
+\\lpbs-file-02\2010$\nkaluboa08834\visual studio 2010\Projects\ATM project\ATM project\obj\x86\Debug\ATM project.exe
+\\lpbs-file-02\2010$\nkaluboa08834\visual studio 2010\Projects\ATM project\ATM project\obj\x86\Debug\ATM project.xml
+\\lpbs-file-02\2010$\nkaluboa08834\visual studio 2010\Projects\ATM project\ATM project\obj\x86\Debug\ATM project.pdb
+\\lpbs-file-02\2010$\nkaluboa08834\Visual Studio 2010\Projects\ATM project\ATM project\obj\x86\Debug\ATM_project.Form1.resources
+\\lpbs-file-02\2010$\nkaluboa08834\Visual Studio 2010\Projects\ATM project\ATM project\obj\x86\Debug\ATM_project.Resources.resources
+\\lpbs-file-02\2010$\nkaluboa08834\Visual Studio 2010\Projects\ATM project\ATM project\bin\Debug\ATM project.exe
+\\lpbs-file-02\2010$\nkaluboa08834\Visual Studio 2010\Projects\ATM project\ATM project\bin\Debug\ATM project.pdb
+\\lpbs-file-02\2010$\nkaluboa08834\Visual Studio 2010\Projects\ATM project\ATM project\bin\Debug\ATM project.xml
+\\lpbs-file-02\2010$\nkaluboa08834\Visual Studio 2010\Projects\ATM project\ATM project\obj\x86\Debug\ATM project.vbproj.GenerateResource.Cache
